@@ -4,7 +4,7 @@ Here are the list of algorithms
 * Divide and Conquer
   * Karatsuba Multiplication
   * MergeSort
-  * Inversion
+  * Counting Inversions
   * QuickSort
   * Counting QuickSort Comparisons
 * Sort 
