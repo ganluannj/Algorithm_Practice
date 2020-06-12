@@ -10,3 +10,8 @@ Here are the list of algorithms
 * Sort 
   * MergeSort
   * QuickSort
+* Randomized Algorithms
+  * QuickSort
+  * RSelect (Randomized Selection)
+  * Randomized Contraction Algorithm
+  
