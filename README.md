@@ -14,4 +14,6 @@ Here are the list of algorithms
   * QuickSort
   * RSelect (Randomized Selection)
   * Randomized Contraction Algorithm
-  
+* Graph
+  * Strongly Connected Components
+  * Dijkstra's Algorithm
