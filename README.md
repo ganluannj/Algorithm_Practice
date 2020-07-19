@@ -17,3 +17,5 @@ Here are the list of algorithms
 * Graph
   * Strongly Connected Components
   * Dijkstra's Algorithm
+* Heap
+  * Median Maintenance
