@@ -19,3 +19,5 @@ Here are the list of algorithms
   * Dijkstra's Algorithm
 * Heap
   * Median Maintenance
+* Hashtable
+  * 2-sum
